@@ -1,4 +1,4 @@
-Plataforma de E-commerce: 
+## 🛒 Plataforma de E-commerce: 
 
 No contexto do comércio eletrônico, a modelagem conceitual é fundamental para estruturar a plataforma de e-commerce. Ao identificar as entidades relacionadas a produtos, compradores, pedidos e pagamentos, é possível garantir a integridade dos dados e a eficiência das transações realizadas na plataforma.
 
@@ -201,10 +201,6 @@ Esses campos são **essenciais para garantir que todas as operações da platafo
 ![Modelagem](modelagem.svg) 
 
 Se desejar abrir o arquivo Use a extensão: jock.svg (SVG jock 1.977.253 (38) SVG Coding, Minify, Pretty, Preview All-In-One).
-
----
-
-Claro! Aqui está um trecho para incluir no seu `README.md`, mencionando os autores e contextualizando o projeto:
 
 ---
 
