@@ -194,6 +194,30 @@ Esses campos são **essenciais para garantir que todas as operações da platafo
 
 **Diagrama ER**
 
+![Modelagem](image.png) 
+
+---
+
 ![Modelagem](modelagem.svg) 
 
 Se desejar abrir o arquivo Use a extensão: jock.svg (SVG jock 1.977.253 (38) SVG Coding, Minify, Pretty, Preview All-In-One).
+
+---
+
+Claro! Aqui está um trecho para incluir no seu `README.md`, mencionando os autores e contextualizando o projeto:
+
+---
+
+## 📄 Sobre o Projeto
+
+Este projeto foi desenvolvido como parte de um estudo de caso voltado à modelagem de banco de dados para uma plataforma de e-commerce. A estrutura proposta abrange as principais entidades envolvidas em uma operação comercial online, como produtos, compradores, pedidos, itens e pagamentos, garantindo a integridade e eficiência das transações.
+
+## 👨‍💻 Desenvolvedores
+
+Este projeto foi idealizado e construído por:
+
+- **Lucimara Dias**  
+- **Carlos Gonçalves**  
+- **Minoru Yamanaka**
+
+
