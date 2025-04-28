@@ -188,7 +188,7 @@ Aqui, definimos os **tipos de dados** de cada campo. A estrutura é parecida com
   Relaciona o pagamento a um pedido específico.
 
 
-Esses campos são **essenciais para garantir que todas as operações da plataforma sejam rastreáveis, seguras e funcionais** — desde a exibição de produtos até a confirmação do pagamento e entrega. Se quiser, posso te mostrar como ficaria a implementação em SQL ou até montar um exemplo de consulta. Deseja seguir com isso?
+Esses campos são **essenciais para garantir que todas as operações da plataforma sejam rastreáveis, seguras e funcionais**
 
 ---
 
